@@ -1,0 +1,82 @@
+[
+    {
+        "category": "Mindfulness",
+        "author": "Maharani Kusuma",
+        "authorAvatar": "https://s3-ap-southeast-1.amazonaws.com/monjars3/prod/coach/maharani.jpg",
+        "title": "Penyebab Terbesar Kasus Kematian",
+        "description": "ternyata hampir 800.000 kasus kematian di dunia disebabkan karena bunuh diri setiap tahunnya. Kita kehilangan 1 jiwa setiap 40 detik dikarenakan",
+        "publishedDate": "2022-04-01T12:00:00.000Z",
+        "banner": "https://s3-ap-southeast-1.amazonaws.com/monjars3/prod/notification/1648372690342722330.jpeg",
+        "like": 46
+    },
+    {
+        "category": "Food",
+        "author": "Maharani Kusuma",
+        "authorAvatar": "https://s3-ap-southeast-1.amazonaws.com/monjars3/prod/coach/maharani.jpg",
+        "title": "Amankah ibu hamil tetap berpuasa?",
+        "description": "Ibu hamil dan menyusui sebenarnya telah diberi “kelonggaran” boleh untuk tidak berpuasa. Namun, beberapa ibu hamil ada yang memutuskan untuk tetap berpuasa.",
+        "publishedDate": "2022-04-01T09:00:00.000Z",
+        "banner": "https://s3-ap-southeast-1.amazonaws.com/monjars3/prod/notification/1648372620589308663.jpeg",
+        "like": 57
+    },
+    {
+        "category": "Health & Medicine",
+        "author": "Rahma",
+        "authorAvatar": "https://s3-ap-southeast-1.amazonaws.com/monjars3/prod/coach/rahma.png",
+        "title": "Begini Cara Dinginkan Tubuh Saat Cuaca Terasa Panas",
+        "description": "Sekalipun kepanasan, buru - buru mencari ruangan ber-AC bukanlah pilihan yang bijaksana. Berikut 5 cara alternatif yang efektif untuk mendinginkan tubuh dari cuaca panas: \n\n",
+        "publishedDate": "2022-03-31T12:00:00.000Z",
+        "banner": "https://s3-ap-southeast-1.amazonaws.com/monjars3/prod/notification/1607383869129803133.jpeg",
+        "like": 71
+    },
+    {
+        "category": "Health & Medicine",
+        "author": "Yenny",
+        "authorAvatar": "https://s3-ap-southeast-1.amazonaws.com/monjars3/prod/coach/yenny.png",
+        "title": "Cara Atasi Efek Samping Vaksin Covid-19",
+        "description": "Menurut Centers for Disease Control and Prevention (CDC), efek samping umum yang dirasakan oleh penerima vaksin yaitu kemerahan, rasa sakit/nyeri, dan bengkak pada lokasi penyuntikan.",
+        "publishedDate": "2022-03-29T09:00:00.000Z",
+        "banner": "https://s3-ap-southeast-1.amazonaws.com/monjars3/prod/notification/1648458966340880723.jpeg",
+        "like": 121
+    },
+    {
+        "category": "Mindfulness",
+        "author": "Maharani Kusuma",
+        "authorAvatar": "https://s3-ap-southeast-1.amazonaws.com/monjars3/prod/coach/maharani.jpg",
+        "title": "Efek Mental Kamu Ke Tubuh",
+        "description": "Kamu harus tahu! Kesehatan mental bisa memengaruhi tubuh. Beban pikiran juga bisa memengaruhi fisik yang semula sehat menjadi rentan.",
+        "publishedDate": "2022-03-28T09:00:00.000Z",
+        "banner": "https://s3-ap-southeast-1.amazonaws.com/monjars3/prod/notification/1648199418770661500.jpeg",
+        "like": 133
+    },
+    {
+        "category": "Food",
+        "author": "Maharani Kusuma",
+        "authorAvatar": "https://s3-ap-southeast-1.amazonaws.com/monjars3/prod/coach/maharani.jpg",
+        "title": "Sapi vs Kacang Merah (Beans)",
+        "description": "Ingin dapat sumber protein yang terjangkau? Kacang merah (beans) bisa jadi solusinya. 100 gram kacang merah mengandung 24 gram protein, bahkan lebih tinggi daripada 100 gram sapi.",
+        "publishedDate": "2022-03-28T12:00:00.000Z",
+        "banner": "https://s3-ap-southeast-1.amazonaws.com/monjars3/prod/notification/1647160995869576489.jpeg",
+        "like": 12
+    },
+    {
+        "category": "Food",
+        "author": "Prieska",
+        "authorAvatar": "https://s3-ap-southeast-1.amazonaws.com/monjars3/prod/coach/prieska.png",
+        "title": "Antioksidan Buat Kesuburan?",
+        "description": "Tahukah kamu bahwa untuk meningkatkan kesuburan bagi pria atau wanita dapat dilakukan dengan mengonsumsi makanan antioksidan yang tinggi seperti sayur, buah, kacang-kacangan, biji-bijian.",
+        "publishedDate": "2022-03-27T09:00:00.000Z",
+        "banner": "https://s3-ap-southeast-1.amazonaws.com/monjars3/prod/notification/1647840867130557749.jpeg",
+        "like": 81
+    },
+    {
+        "category": "Fashion",
+        "author": "Erickson",
+        "authorAvatar": "https://s3-ap-southeast-1.amazonaws.com/monjars3/prod/coach/ericson.png",
+        "title": "Brand Lokal Indonesia Di New York Fashion Week",
+        "description": "Brand fesyen lokal, Erigo, tampil di atas panggung New York Fashion Week Spring/Summer 2022, Rabu (08/09/2021) pagi, waktu New York.",
+        "publishedDate": "2022-03-27T12:00:00.000Z",
+        "banner": "https://s3-ap-southeast-1.amazonaws.com/monjars3/prod/notification/1631844388352844034.jpeg",
+        "like": 7
+    }
+]

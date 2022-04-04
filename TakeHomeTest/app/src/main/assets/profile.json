@@ -1,0 +1,34 @@
+{
+    "name": "Maharani Kusuma",
+    "userAvatar": "https://s3-ap-southeast-1.amazonaws.com/monjars3/prod/coach/maharani.jpg",
+    "follower": 10,
+    "following": 22,
+    "numberPost": 232,
+    "income": 1750000,
+    "diposting": [
+        {
+            "category": "Mindfulness",
+            "title": "Penyebab Terbesar Kasus Kematian",
+            "publishedDate": "2022-04-01T12:00:00.000Z",
+            "like": 46
+        },
+        {
+            "category": "Food",
+            "title": "Amankah ibu hamil tetap berpuasa?",
+            "publishedDate": "2022-04-01T09:00:00.000Z",
+            "like": 57
+        },
+        {
+            "category": "Mindfulness",
+            "title": "Efek Mental Kamu Ke Tubuh",
+            "publishedDate": "2022-03-28T09:00:00.000Z",
+            "like": 133
+        },
+        {
+            "category": "Food",
+            "title": "Sapi vs Kacang Merah (Beans)",
+            "publishedDate": "2022-03-28T12:00:00.000Z",
+            "like": 12
+        }
+    ]
+}

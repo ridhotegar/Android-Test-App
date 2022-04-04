@@ -1,0 +1,38 @@
+[
+    {
+        "author": "Maharani Kusuma",
+        "authorAvatar": "https://s3-ap-southeast-1.amazonaws.com/monjars3/prod/coach/maharani.jpg",
+        "experience": "5 tahun penulis lepas"
+    },
+    {
+        "author": "Pratiwi",
+        "authorAvatar": "https://s3-ap-southeast-1.amazonaws.com/monjars3/prod/coach/pratiwi.png",
+        "experience": "8 tahun ahli gizi"
+    },
+    {
+        "author": "Rahma",
+        "authorAvatar": "https://s3-ap-southeast-1.amazonaws.com/monjars3/prod/coach/rahma.png",
+        "experience": "3 tahun penulis lepas"
+    },
+    {
+        "author": "Yenny",
+        "authorAvatar": "https://s3-ap-southeast-1.amazonaws.com/monjars3/prod/coach/yenny.png",
+        "experience": "3 tahun penulis lepas"
+    },
+    {
+        "author": "Erickson",
+        "authorAvatar": "https://s3-ap-southeast-1.amazonaws.com/monjars3/prod/coach/ericson.png",
+        "experience": "5 tahun penulis lepas"
+    },
+    {
+        "author": "Ulfi Rahma",
+        "authorAvatar": "https://s3-ap-southeast-1.amazonaws.com/monjars3/prod/coach/ulfi.png",
+        "experience": "2 tahun ahli gizi"
+    },
+    {
+        "author": "Prieska",
+        "authorAvatar": "https://s3-ap-southeast-1.amazonaws.com/monjars3/prod/coach/prieska.png",
+        "experience": "2 tahun ahli gizi"
+    }
+]
+
